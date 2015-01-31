@@ -64,17 +64,17 @@ uploadArchives {
                         name project.archivesBaseName
                         packaging 'jar'
                         description 'ForgeModLoader'
-                        url 'https://github.com/MinecraftForge/FML'
+                        url 'https://github.com/shamahn/FML'
 
                         scm {
-                            url 'https://github.com/MinecraftForge/FML'
-                            connection 'scm:git:git://github.com/MinecraftForge/FML.git'
-                            developerConnection 'scm:git:git@github.com:MinecraftForge/FML.git'
+                            url 'https://github.com/shamahn/FML'
+                            connection 'scm:git:git://github.com/shamahn/FML.git'
+                            developerConnection 'scm:git:git@github.com:shamahn/FML.git'
                         }
 
                         issueManagement {
                             system 'github'
-                            url 'https://github.com/MinecraftForge/FML/issues'
+                            url 'https://github.com/shamahn/FML/issues'
                         }
 
                         licenses {
